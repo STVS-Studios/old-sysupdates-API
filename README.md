@@ -1,4 +1,4 @@
-# sysupdates-API
+![SysUpdate API](assets/sysupdatelogo.jpg)
 A simple service for getting system update data for gaming consoles
 
 
@@ -14,7 +14,7 @@ I am not affiliated with both companies in any way, regarding this project.
 If either SONY or Nintendo want this project to be closed, please notify me about it (and provide a proof of beeing a real employee of the company in charge). I carefully checked this project and can state, that this project doesn't contain URLs of update data and other confidential information, just the version number and the date it was published.
 
 ## Description
-sysupdate is an API gathering data on system updates from variopus platforms.
+SysUpdate is an API gathering data on system updates from variopus platforms.
 It collects them from official sources and encodes them as a JSON array, ready to be used within other services and apps.
 The recieved data contains the firmware version (for example 11.9.0-42) and the date, the update was published.
 

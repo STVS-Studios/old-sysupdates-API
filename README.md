@@ -14,7 +14,7 @@ If either SONY or Nintendo want this project to be closed, please notify me abou
 ## Description
 sysupdate is an API gathering data on system updates from variopus platforms.
 It collects them from official sources and encodes them as a JSON array, ready to be used within other services and apps.
-The recieved data contains the firmware version and the date, the update was published.
+The recieved data contains the firmware version (for example 11.9.0-42) and the date, the update was published.
 
 ## Usage
 Use this URL scheme to use this service:

@@ -1,4 +1,4 @@
-# sysupdates-API
+![SysUpdate API](assets/sysupdatelogo.jpg)
 Ein einfacher Dienst zur Erfassung von Update-Daten für viele Spielekonsolen
 
 
@@ -16,7 +16,7 @@ Ich habe das Projekt überprüft und kann sagen, dass dieses keine URLS zu Updat
 Nur die Update-Version und das Veröffentlichungsdatum des Updates werden mitgeteilt.
 
 ## Beschreibung
-sysupdate is an API gathering data on system updates from variopus platforms.
+SysUpdate ist eine API, welche Update-Daten für viele Konsolen erfasst.
 Es holt sich die Daten aus offiziellen Quellen und kodiert diese in JSON, um in anderen Services und Apps verwendet werden zu können.
 Die erhaltenen Daten sind die Versionsnummer des Updates (wie 11.9.0-42) und das Veröffentlichungsdatum des Updates.
 

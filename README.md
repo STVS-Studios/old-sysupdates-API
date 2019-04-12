@@ -4,6 +4,7 @@ A simple service for getting system update data for gaming consoles
 
 
 ## Important things first
+The Source code of this project will be cleaned up and published here soon.
 This service connects to other servers, in order to gather information. These are:
 - Nintendo's japanese support pages
 - SONY's official update servers

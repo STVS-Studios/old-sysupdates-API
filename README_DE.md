@@ -4,8 +4,6 @@ Ein einfacher Dienst zur Erfassung von Update-Daten für viele Spielekonsolen
 
 
 ## Das wichtige zuerst
-Der Quellcode des Projektes wird bereinigt und demnächst hier veröffentlicht.
-
 Dieser Dienst verwendet andere Server, um an die Informationen zu kommen. Diese sind:
 - Nintendo's Support Seite (auf Japanisch)
 - SONY's Offizielle Update-Server

@@ -20,7 +20,7 @@ Die erhaltenen Daten sind die Versionsnummer des Updates (wie 11.9.0-42) und das
 
 ## Nutzung
 Nutzt dieses URL Schema, um den Service zu benutzen:
-https://sysupdate.stvs.me/v1/platform (ersetzt platform mit der benötigten Plattform)
+https://www.sysupdate.stvs.me/v1/platform (ersetzt platform mit der benötigten Plattform)
 Ihr könnt Daten zu folgenden Plattformen erhalten:
   - Nintendo Switch (switch)
   - Nintendo 3DS (3ds)

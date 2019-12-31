@@ -18,7 +18,7 @@ The recieved data contains the firmware version (for example 11.9.0-42) and the 
 
 ## Usage
 Use this URL scheme to use this service:
-https://www.sysupdate.stvs.me/v1/platform (replace platform with your desired platform)
+https://www.old.sysupdate.stvs.me/v1/platform (replace platform with your desired platform)
 You can get data for the following platforms:
   - Nintendo Switch (switch)
   - Nintendo 3DS (3ds)

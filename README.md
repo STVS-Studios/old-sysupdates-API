@@ -1,6 +1,7 @@
 ![SysUpdate API](assets/sysupdatelogo.jpg)
 A simple service for getting system update data for gaming consoles
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F51BI4D)
 
 
 ## Important things first
